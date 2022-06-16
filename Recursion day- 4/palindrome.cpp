@@ -14,7 +14,7 @@ bool checkpalindrome(string str,int i,int j){
 }
 int main(){
 
-    string name="abba";
+    string name="abaa";
     cout<<endl;
 
     bool ispalindrome=checkpalindrome(name,0,name.length()-1);
